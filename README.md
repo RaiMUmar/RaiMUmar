@@ -1,6 +1,6 @@
 # Welcome to my page 👋
 
-Hi, I'm **Rai Umar** — studying **Software Engineering** at the **University of Guelph**.
+Hi, I'm **Rai Umar** — studying **Software Engineering (Co-op)** at the **University of Guelph**.
 
 ## Check out my recent projects
 - **StreamSeal** → https://github.com/RaiMUmar/StreamSeal
