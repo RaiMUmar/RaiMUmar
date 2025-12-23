@@ -3,6 +3,7 @@
 Hi, I'm **Rai Umar** — studying **Software Engineering (Co-op)** at the **University of Guelph**.
 
 ## Check out my recent projects
+- **System-Autopilot** -> https://github.com/RaiMUmar/System-Autopilot
 - **StreamSeal** → https://github.com/RaiMUmar/StreamSeal
 - **National-Employment-Analytics-Tool** → https://github.com/RaiMUmar/National-Employment-Analytics-Tool
 
