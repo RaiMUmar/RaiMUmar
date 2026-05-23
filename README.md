@@ -1,6 +1,6 @@
 # Welcome to my page 👋
 
-Hi, I'm **Rai Umar** — studying **Software Engineering (Co-op)** at the **University of Guelph**.
+Hi, I'm **Rai Umar**, studying **Software Engineering (Co-op)** at the **University of Guelph**.
 
 ## Check out my recent projects
 - **System-Autopilot** → https://github.com/RaiMUmar/System-Autopilot
@@ -12,7 +12,7 @@ I enjoy solving real problems. Building practical, reliable software and learnin
 
 ## Reach out to me
 I thrive on innovation, continuous learning, and solving real world problems.  
-I'm really passionate about building practical apps, helpful data tools, and clean, maintainable code — **feel free to reach out to me anytime**.
+I'm really passionate about building practical apps, helpful data tools, and clean, maintainable code, **feel free to reach out to me anytime**.
 
 - 📧 Email: rumar@uoguelph.ca
 - 🔗 LinkedIn: https://www.linkedin.com/in/rai-umar
